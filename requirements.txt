@@ -1,0 +1,13 @@
+numpy<2.0.0
+langchain
+langchain-classic
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+chromadb
+fastapi
+uvicorn[standard]
+pypdf
+python-dotenv

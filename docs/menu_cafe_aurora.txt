@@ -1,0 +1,16 @@
+Café Aurora es una cafetería artesanal fundada en 2018 en la Ciudad de México.
+Nuestro menú combina recetas tradicionales mexicanas con técnicas modernas de preparación.
+
+Bebidas calientes:
+- Café de olla Aurora: $55 MXN — café de grano tostado con piloncillo, canela y anís estrella
+- Latte de mazapán: $72 MXN — espresso doble con leche vaporizada y mazapán artesanal
+- Chocolate oaxaqueño: $65 MXN — chocolate de mesa con agua o leche, batido con molinillo
+- Matcha ceremonial: $78 MXN — matcha grado ceremonial de Uji, Japón
+
+Bebidas frías:
+- Cold brew 12 horas: $60 MXN — extracción en frío durante 12 horas, servido con hielo
+- Horchata con espresso: $68 MXN — horchata casera de arroz con un shot de espresso
+- Limonada de albahaca: $50 MXN — limón, albahaca fresca, miel de agave
+
+Todos los precios incluyen IVA. Descuento del 10% para empleados.
+Horario de cocina: 7:00 AM a 8:00 PM. Bebidas hasta las 9:00 PM.

@@ -1,0 +1,24 @@
+Proceso de pedidos y servicio a domicilio de Café Aurora.
+
+Pedidos en sucursal:
+1. El cliente ordena en la barra o por la app "Aurora App"
+2. El barista confirma el pedido y cobra
+3. Tiempo de preparación estimado: 5-8 minutos para bebidas, 15-20 para alimentos
+4. Se llama al cliente por nombre cuando el pedido está listo
+
+Servicio a domicilio:
+- Disponible de 8:00 AM a 7:00 PM
+- Radio de entrega: 5 km desde cada sucursal
+- Costo de envío: $25 MXN (gratis en pedidos mayores a $200 MXN)
+- Plataformas: Aurora App, Uber Eats, Rappi
+- Tiempo estimado de entrega: 25-40 minutos
+
+Pedidos para eventos (catering):
+- Mínimo 48 horas de anticipación
+- Pedido mínimo: 20 bebidas o $1,500 MXN
+- Incluye vasos biodegradables y servicio de barista en sitio
+- Contacto: eventos@cafeaurora.mx o teléfono 55-1234-5678
+- Descuento del 15% para pedidos recurrentes (empresas)
+
+Métodos de pago: efectivo, tarjeta, transferencia SPEI, CoDi.
+No se aceptan cheques. Facturación disponible con RFC.
